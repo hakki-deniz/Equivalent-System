@@ -1,7 +1,5 @@
 # Equivalent-System
-This piece of code is prepared for the question at:
-
-    https://portwooddigital.com/2022/05/01/a-complicated-equivalent/
+This piece of code is prepared for the question at:  https://portwooddigital.com/2022/05/01/a-complicated-equivalent/
 
     ---
     This script is a representative of "three-point Gauss-Legendre" model.
